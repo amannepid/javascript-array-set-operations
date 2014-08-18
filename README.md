@@ -5,7 +5,14 @@ JS Library file to handle the basic set operation in Javascript Array data.
 
 This libraray is based on https://code.google.com/p/javascriptsets/ with existing bug fixing and improvements.
 
-#Usage: 
+##Set Operations: 
+ * Cartessian
+ * Complement
+ * Difference
+ * Intersection
+ * Union
+
+##Usage: 
 
 * Include: ```<script src="../javascript-array-sets.js" type="text/javascript"></script>```
 
